@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tarea01</string>
+    <string name ="nombre">Ingrese su nombre</string>
+    <string name ="telefono">Ingrese su telefono</string>
+    <string name = "escolaridad">Escolaridad</string>
+    <string name = "genero">Género</string>
+    <string name = "masculino">Masculino</string>
+    <string name = "femenino">Femenino</string>
+    <string name = "libroFavorito">Libro Favorito</string>
+    <string name = "PracticaDeporte">Practica Deporte</string>
+
+    <string-array name="spinner">
+        <item>Bachillerato</item>
+        <item>Técnico</item>
+        <item>Licenciatura</item>
+        <item>Maestria</item>
+        <item>Doctorado</item>
+    </string-array>
+
+    <string-array name="books">
+        <item>El hombre sin atributos</item>
+        <item>Las metamorfosis</item>
+        <item>Harry Potter</item>
+        <item>El señor de los anillos</item>
+        <item>50 Sombras de Grey</item>
+    </string-array>
+
+</resources>
